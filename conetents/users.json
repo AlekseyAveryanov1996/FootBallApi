@@ -8,5 +8,12 @@
     "id": 2,
     "name": "Мария",
     "email": "maria@example.com"
+  },
+  {
+    "id": "1762767090793",
+    "name": "Test Player",
+    "email": "testEmail",
+    "goals": "0",
+    "assists": 0
   }
 ]
