@@ -11,5 +11,12 @@
     "goals": 0,
     "assists": 0,
     "id": 1
+  },
+  {
+    "name": "Алексей",
+    "email": "Flex_d1@mail.ru",
+    "goals": 0,
+    "assists": 0,
+    "id": 2
   }
 ]
